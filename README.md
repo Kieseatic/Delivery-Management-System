@@ -4,7 +4,7 @@
 Looking For Bugs - Since 2023
 
 # Group Members <br/>
-Jay Vijaykumar Vakil - 181611211 <br/>
+Jay Vijaykumar Vakil - 
 Mohit Sheth <br/>
 Harsh Anilkumar Dugar <br/>
 Hetav Mamtora  <br/>
