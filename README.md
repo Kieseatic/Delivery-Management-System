@@ -4,12 +4,8 @@
 Looking For Bugs - Since 2023
 
 # Group Members <br/>
-Jay Vijaykumar Vakil - 
-Mohit Sheth <br/>
 Harsh Anilkumar Dugar <br/>
-Hetav Mamtora  <br/>
-Viren Vaishnav  <br />
-Srujal Patel <br />
+
 
 
 
